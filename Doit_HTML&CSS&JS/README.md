@@ -5,11 +5,11 @@ Do it HTML&CSS&자바스크립트 웹 표준의 정석을 이용한 학습
    
    
 자세한 내용은 블로그 기재 중입니다.   
-블로그 링크: https://gyha0124.tistory.com/
+https://gyha0124.tistory.com/category/%EA%B3%B5%EB%B6%80/Do%20it%20HTML%2BCSS%2B%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%9B%B9%20%ED%91%9C%EC%A4%80%EC%9D%98%20%EC%A0%95%EC%84%9D
 
 #### 현재 정리한 항목
 1. 웹 개발 시작하기
 2. 웹 개발 환경 만들기
 3. HTML 기본 문서 만들기
 4. 웹 문서에 다양한 내용 입력하기
-5. 입력 양식 작성하기(작성중)
+5. 입력 양식 작성하기
