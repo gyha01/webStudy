@@ -13,3 +13,5 @@ https://gyha0124.tistory.com/category/%EA%B3%B5%EB%B6%80/Do%20it%20HTML%2BCSS%2B
 3. HTML 기본 문서 만들기
 4. 웹 문서에 다양한 내용 입력하기
 5. 입력 양식 작성하기
+   (CSS 부분은 작성 미정)
+13. 자바스크립트와 첫 만남
